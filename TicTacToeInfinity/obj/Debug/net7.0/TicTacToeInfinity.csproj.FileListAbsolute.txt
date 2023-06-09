@@ -1,0 +1,15 @@
+/Users/sgall/Projects/TicTacToeInfinity/TicTacToeInfinity/bin/Debug/net7.0/TicTacToeInfinity
+/Users/sgall/Projects/TicTacToeInfinity/TicTacToeInfinity/bin/Debug/net7.0/TicTacToeInfinity.deps.json
+/Users/sgall/Projects/TicTacToeInfinity/TicTacToeInfinity/bin/Debug/net7.0/TicTacToeInfinity.runtimeconfig.json
+/Users/sgall/Projects/TicTacToeInfinity/TicTacToeInfinity/bin/Debug/net7.0/TicTacToeInfinity.dll
+/Users/sgall/Projects/TicTacToeInfinity/TicTacToeInfinity/bin/Debug/net7.0/TicTacToeInfinity.pdb
+/Users/sgall/Projects/TicTacToeInfinity/TicTacToeInfinity/obj/Debug/net7.0/TicTacToeInfinity.csproj.AssemblyReference.cache
+/Users/sgall/Projects/TicTacToeInfinity/TicTacToeInfinity/obj/Debug/net7.0/TicTacToeInfinity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sgall/Projects/TicTacToeInfinity/TicTacToeInfinity/obj/Debug/net7.0/TicTacToeInfinity.AssemblyInfoInputs.cache
+/Users/sgall/Projects/TicTacToeInfinity/TicTacToeInfinity/obj/Debug/net7.0/TicTacToeInfinity.AssemblyInfo.cs
+/Users/sgall/Projects/TicTacToeInfinity/TicTacToeInfinity/obj/Debug/net7.0/TicTacToeInfinity.csproj.CoreCompileInputs.cache
+/Users/sgall/Projects/TicTacToeInfinity/TicTacToeInfinity/obj/Debug/net7.0/TicTacToeInfinity.dll
+/Users/sgall/Projects/TicTacToeInfinity/TicTacToeInfinity/obj/Debug/net7.0/refint/TicTacToeInfinity.dll
+/Users/sgall/Projects/TicTacToeInfinity/TicTacToeInfinity/obj/Debug/net7.0/TicTacToeInfinity.pdb
+/Users/sgall/Projects/TicTacToeInfinity/TicTacToeInfinity/obj/Debug/net7.0/TicTacToeInfinity.genruntimeconfig.cache
+/Users/sgall/Projects/TicTacToeInfinity/TicTacToeInfinity/obj/Debug/net7.0/ref/TicTacToeInfinity.dll
